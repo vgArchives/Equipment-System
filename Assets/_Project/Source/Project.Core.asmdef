@@ -2,6 +2,7 @@
     "name": "Project.Core",
     "rootNamespace": "Project.Core",
     "references": [
+        "",
         "Coimbra",
         "Coimbra.Editor",
         "Coimbra.Listeners",
@@ -9,10 +10,9 @@
         "Coimbra.Services.ApplicationStateEvents",
         "Coimbra.Services.Editor",
         "Coimbra.Services.Events",
-        "Unity.TextMeshPro",
-        "UIEffect",
         "DOTween.Modules",
-        ""
+        "UIEffect",
+        "Unity.TextMeshPro"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
